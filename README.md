@@ -35,6 +35,7 @@ npx skills update
 | Skill | Description |
 | --- | --- |
 | [`bug-hunt`](skills/bug-hunt/SKILL.md) | Read-only codebase audit workflow hunting for real, reproducible defects across 16 concrete bug classes and producing a verified report without modifying code. |
+| [`review-deep`](skills/review-deep/SKILL.md) | Deep, scripted multi-turn review of a GitHub PR or local branch changes (change & flow maps, per-region notes, confirmed findings, and severity triage) via the `claude` CLI. |
 
 ## Repository Structure
 
