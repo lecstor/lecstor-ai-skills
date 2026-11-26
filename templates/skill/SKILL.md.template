@@ -1,0 +1,25 @@
+---
+name: my-skill-name
+description: Concise summary of what this skill does and when an AI agent should invoke it.
+license: MIT
+metadata:
+  author: lecstor
+  version: "1.0.0"
+---
+
+# My Skill Name
+
+Clear, actionable instructions for the AI agent when this skill is activated.
+
+## When to Use
+
+- Describe the triggers, user intents, or project contexts where this skill applies.
+
+## Instructions
+
+1. Step-by-step guidance for the agent.
+2. Reference any bundled scripts (`scripts/`), documentation (`references/`), or templates (`assets/`) using relative paths.
+
+## Output & Verification
+
+- State what done looks like and how the agent should verify its work.
