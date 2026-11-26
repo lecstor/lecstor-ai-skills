@@ -34,7 +34,7 @@ npx skills update
 
 | Skill | Description |
 | --- | --- |
-| _Coming soon_ | Add skills under `skills/<skill-name>/SKILL.md` and list them here. |
+| [`bug-hunt`](skills/bug-hunt/SKILL.md) | Read-only codebase audit workflow hunting for real, reproducible defects across 16 concrete bug classes and producing a verified report without modifying code. |
 
 ## Repository Structure
 
